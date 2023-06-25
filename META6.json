@@ -1,0 +1,17 @@
+{
+    "raku" : "6.c",
+    "name" : "DBF",
+    "api"  : "1",
+    "auth" : "github:uzluisf",
+    "version" : "0.0.1",
+    "description" : "Reads dBASE III files (version 3)",
+    "authors" : [ "Luis Uceta" ],
+    "license" : "Artistic-2.0",
+    "provides" : {
+        "DBF" : "lib/DBF.rakumod"
+    },
+    "tags": [
+      "DBF"
+    ],
+    "source-url" : "git://github.com/uzluisf/raku-dbf-reader-art.git"
+}
