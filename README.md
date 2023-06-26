@@ -3,7 +3,7 @@ DBF
 
 Raku module that reads dBASE III files (version 3) and returns the data as native Raku data types for further processing.
 
-This started as a collection of code snippets from the article **dBASE: Parsing Binary File Formats With Raku**, which I ultimately turned into a small module. 
+This started as a collection of code snippets from the article [dBASE: Parsing a Binary File Format With Raku](https://dev.to/uzluisf/dbase-parsing-a-binary-file-format-with-raku-2fm6), which I ultimately turned into a small module. 
 
 SYNOPSIS
 --------

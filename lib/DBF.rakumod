@@ -185,8 +185,8 @@ class DBF {
 Raku module that reads dBASE III files (version 3) and returns the
 data as native Raku data types for further processing.
 
-This started as a collection of code snippets from the article B<dBASE: Parsing
-Binary File Formats With Raku>,
+This started as a collection of code snippets from the article L<dBASE: Parsing
+a Binary File Format With Raku|https://dev.to/uzluisf/dbase-parsing-a-binary-file-format-with-raku-2fm6>,
 which I ultimately turned into a small module. 
 
 =head2 SYNOPSIS
